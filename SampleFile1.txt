@@ -1,2 +1,11 @@
-This is Sample File 1
+
+
+
+
+
+his is Sample File 1
+
 This is modified text
+
+This is comparison lecture
+
